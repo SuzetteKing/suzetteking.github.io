@@ -1,11 +1,13 @@
-.column {
-    float: left;
-    width: 50%;
+body {
+    background-color: lightblue;
 }
 
-/* Clear floats after the columns */
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
 }
